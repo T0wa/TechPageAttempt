@@ -1,0 +1,19 @@
+*{
+	background-image: url("Cosas/Nf.gif");
+	background-size:100%;
+}
+
+
+.back{
+	color:white;
+	margin:auto;
+	float:left;
+	background-image: none;
+	margin-top: 40px
+}
+
+.logo img{
+	width: 350px;
+	background-image:none;
+	margin-left:20px
+}
